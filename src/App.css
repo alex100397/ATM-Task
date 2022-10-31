@@ -1,0 +1,26 @@
+/* ATM Machine - Style Sheet */
+
+*{
+  color:rgb(12, 108, 172);
+  background-color : rgb(45, 42, 49);
+  font-family: 'Poppins', sans-serif;
+}
+
+.App{
+  text-align: center;
+}
+
+.atm{
+  padding: 10px;
+  text-align:center;
+  margin: 25px;
+}
+
+.denomination{
+  border-radius: 10px;
+  margin: 45px;
+}
+
+p{
+  font-size: 20px;
+}
